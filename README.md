@@ -1,7 +1,7 @@
 ### Step 1 - Git clone + cd
 
 ```
-git clone https://github.com/saasscaleup/openai-jarvis.git
+git clone https://github.com/OMx0777/AI-Assistant.git
 ```
 
 ```
@@ -51,3 +51,4 @@ Modify `copy.env` to use your own [OpenAI API key](https://platform.openai.com/a
 ```
 python3 app.py
 ```
+
